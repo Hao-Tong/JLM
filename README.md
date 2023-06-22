@@ -1,5 +1,7 @@
 # Joint Linkage Mapping (JLM)
 
+Reference: Xiao, Y., Tong, H., Yang, X., Xu, S., Pan, Q. et al. (2016). Genome-wide dissection of the maize ear genetic architecture using multiple populations. The New Phytologist, 210(3), 1095–1106. https://doi.org/10.1111/nph.13814
+
 ## This R package is designed for genotype data imputation and projection, and also bin extraction, if necessary, and for joint linkage mapping (JLM) via a linear mixed model.
 
 It comprises five parts, 1. imputation, 2. projection, 3. exbin, 4. kinship, 5. JLM.
